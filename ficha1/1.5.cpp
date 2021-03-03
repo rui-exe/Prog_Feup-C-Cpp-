@@ -10,3 +10,4 @@ int main() {
     sresult = (sec1+sec2)%60;
     cout <<"Time1 + Time2 = "<<days<<" day "<<hresult<<" hours "<<mresult<<" minutes and "<<sresult<<" seconds.";
     return 0;
+}

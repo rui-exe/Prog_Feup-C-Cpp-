@@ -1,4 +1,3 @@
-/*@author- Rui Pires @feup */
 #include <iostream>
 using namespace std;
 int main()

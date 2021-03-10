@@ -14,7 +14,11 @@ int main() {
                 break;
             }
         }
-    if (is_prime)
+    if (num == 0 || num ==1)
+    {
+        cout<<"the number "<<num<<" is not a valid prime number!"<<endl;
+    }
+    else if (is_prime)
         {
             cout<<"the number "<<num<<" is prime!"<<endl;
         }

@@ -29,4 +29,5 @@ int main() {
     }
     cout<<"The cost of transporting "<<weight<<" grams of merchandise is equal to "<<cost<<"$"<<endl;
     return 0;
+    
 }

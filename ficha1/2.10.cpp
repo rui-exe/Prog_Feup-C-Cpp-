@@ -34,7 +34,7 @@ while (true)
         number = number/divisor ;
     }
     else
-        {
+        { 
         divisor++;
     }
 }

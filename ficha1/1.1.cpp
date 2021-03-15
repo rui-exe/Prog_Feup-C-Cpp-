@@ -8,3 +8,4 @@ int main()
     cout <<"The ascii value of the character " <<c <<" is: " <<int(c)<<endl;
     return 0;
 }
+ 

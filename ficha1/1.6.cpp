@@ -14,3 +14,4 @@ int main() {
     cout<<"A area do triangulo e exatamente: "<<area<<" unidades de area";
     return 0;
 }
+ 

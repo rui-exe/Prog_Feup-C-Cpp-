@@ -11,4 +11,4 @@ int main() {
     double x = (c*e - b*f) / (a*e - b*d);
     double y = (a*f - c*d) / (a*e - b*d);
     cout << "x = "<< x<<" y = "<< y;
-}
+} 

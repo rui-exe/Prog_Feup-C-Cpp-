@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main() { 
     int a,b,c;
     cout <<"Please, input 3 integer numbers: \n";
     cout << "A: ";

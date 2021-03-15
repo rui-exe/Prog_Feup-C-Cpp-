@@ -27,3 +27,4 @@ if (is_prime(number)) cout<<"The number "<<number<<" is prime!"<<endl;
 else cout <<"The number "<<number<<" is not prime!";
 return 0;
 }
+ 

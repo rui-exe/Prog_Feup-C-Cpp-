@@ -16,4 +16,4 @@ int main(){
     cin>>num;
     cout<<num<<"! = "<<factorial_rec(num)<<endl;
     return 0;
-}
+} 

@@ -34,4 +34,4 @@ int main(){
     int times = findMultValuesInArray(a,  num_elements, value,  pos1, pos2,index);
     cout<<"Your value occurred "<< times<<" in the array between your boundaries."<<endl;
     return 0;
-}
+} 
